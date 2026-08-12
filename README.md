@@ -9,7 +9,7 @@ In this data, They have four worksheets :- <br>
 <br>
 The all rough work is done in first sheet all preparation and dashboard design heading selecting etc.<br>
 The Main data is here in Second sheet, This is the raw data,main source. <br>
-After all preparation i made pivot tables for raw form into categoried data form. It is useful to understand data in simple language.<br>< Then i insert Charts for table form into visualise form, After all i insert the slicers for filtering which is help to see the data into multiple formms.
+After all preparation i made pivot tables for raw form into categoried data form. It is useful to understand data in simple language.<br> Then i insert Charts for table form into visualise form, After all i insert the slicers for filtering which is help to see the data into multiple formms.
 <br>
 The last sheet is Main Dashboard sheet which has all data into visualise form all slicers here to see the data using filtering 
 <br>
